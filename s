@@ -1112,6 +1112,8 @@ spermatorrhea
 synaloephas
 irrelevancies
 fermentitious
+frissons
+
 mouldinesses
 methylations
 advoutrers
@@ -1246,6 +1248,11 @@ odontomata
 trustbusting
 whitewalls
 efficiencies
+hoplologies
+hoplologist 
+portoises 
+toiseachs
+
 hemoprotein
 historicised
 unbundling
@@ -1394,6 +1401,7 @@ backtracking
 reenergises
 sanitations
 inchoation
+pokemon
 yatterings
 spondylitis
 undrooping
@@ -1881,6 +1889,7 @@ parawalkers
 convivialist
 teutonizes
 negotiants
+muqaddam
 volatilization
 introvertive
 circassian
@@ -1990,9 +1999,7 @@ parricidal
 overadvertise
 decelerons
 westernises
-agricultures
 immiserisation
-technicise
 refashionments
 misperceives
 disturbant
@@ -2134,7 +2141,6 @@ advertizers
 fertilisations
 boulevards
 photoengraves
-inquietudes
 plagiarise
 delibation
 austerities
@@ -2176,7 +2182,7 @@ autoradiogram
 misdirections
 antipiracy
 grittiness
-joyfullest
+petrichors
 polygraphy
 patrialized
 unlikelihoods
@@ -3275,6 +3281,13 @@ participially
 coffeepots
 impleadable
 tormentings
+morulae 
+nebulae
+neurulae
+novellae 
+begrudgeries
+chanukiahs
+buzukia
 procaryons
 chrominances
 aromatisations
@@ -3302,11 +3315,13 @@ clairvoyances
 subalternity
 judicatories
 villainesses
+hystricomorphic 
 fledglings
 nighttimes
 beadblasts
 burlesquely
 improvident
+microcrystallinities 
 permanents
 emunctions
 cheilitises
@@ -3315,6 +3330,7 @@ omittances
 sweepingly
 eugeosynclines
 quadrinomial
+sphaerocrystals 
 recordations
 attributed
 backtracked
@@ -3467,6 +3483,7 @@ pompelmooses
 mulligatawnies
 empowerments
 electrotypes
+bisectrix 
 neologizes
 interabangs
 mythologer
@@ -3510,8 +3527,10 @@ macrofossils
 corporatist
 psychoanalyser
 conchology
+ianthine
 incarcerations
 overfreight
+leukodystrophy 
 nuptialities
 thickleaves
 technicising
@@ -3521,6 +3540,7 @@ verisimilities
 extraposes
 sluggardized
 asepticisms
+oystrige
 anastigmat
 intercostals
 salivations
@@ -3547,6 +3567,7 @@ unresisted
 brickfielders
 couturieres
 logistically
+lipodystrophies 
 boneheadedness
 communalists
 tragelaphs
@@ -3598,6 +3619,7 @@ overcompliance
 revaccinating
 facinorous
 triumviries
+dudgeon
 uncanonizing
 astronomized
 reproduction
@@ -3669,8 +3691,10 @@ parsimonies
 nondiscount
 divinatory
 ponderance
+epichlorohydrins
 spellbinder
-vivisected
+chiaroscurisms
+androgynous
 epicurising
 chemoautotroph
 porphyrites
@@ -3680,12 +3704,17 @@ eschatology
 abortuaries
 uncheerful
 shillelagh
+epiphenomenalism
 disembrangling
 underbelly
 finalisers
 pluralises
 turnabouts
 fittingness
+daeing
+coryphaei
+archaei 
+apogaeic
 sordamente
 altercated
 unfoldment
@@ -3868,6 +3897,7 @@ trichinellas
 overdecorate
 diversities
 coinheritors
+hypolimnia
 dismissory
 barratrous
 clapperboy
@@ -4526,6 +4556,7 @@ thimbleriggings
 organophosphoruses
 amazonites
 juggernauts
+baccivorous
 pahauteas
 clamjamphries
 wappenschawings
@@ -4533,6 +4564,7 @@ jamahiriyas
 didjeridus
 foederatus
 braunschweigers
+nomothetical
 vinegarroons
 valval
 yoyo
@@ -4653,7 +4685,10 @@ bitrates
 bahookie
 streptococcus
 dovishly
-dumortierites
+yellowlegs 
+parvifoliate
+slantingways 
+ultraorthodox
 hemiolias
 oenomanias
 megasporangium
@@ -4685,6 +4720,7 @@ smaaking
 pilgrimizing
 chapkas
 schlumbergeras
+mutuums
 nothingarianism
 smasheroos
 sulphhydryls
@@ -4832,6 +4868,7 @@ ahimsas
 oncornaviruses
 buoyantnesses
 jihadisms
+
 bumfuzzles
 ablatival
 ouraris
@@ -4839,6 +4876,7 @@ artmakings
 shvartzes
 smartypants
 zerk
+haemorrhagings
 dulcamaras
 hemiacetals
 coreopsises
@@ -4850,6 +4888,7 @@ bergalls
 fatbirds
 backsplits
 anacoluthias
+hexadecyls
 capcoms
 jalabib
 ninjutsus
@@ -4871,6 +4910,7 @@ balaclavas
 sdayned
 ekpwele
 toitoi
+kilikitis
 acataleptics
 becudgeling
 angishores
@@ -5122,6 +5162,7 @@ tzarevnas
 haha
 triceratopses
 murmur
+widdershins
 jillaroos
 carnosaurs
 kangarooed
@@ -5202,6 +5243,7 @@ bisphosphonates
 meshuggenehs
 papillomata
 nosegays
+fard
 doveishly
 frisures
 chicos
@@ -5216,6 +5258,7 @@ ngoma
 fluphenazines
 snippersnappers
 hoofprints
+qabalahs
 chlorhexidines
 harebrained
 nimbostratus
@@ -5414,6 +5457,7 @@ kinnikinnick
 medulloblastomata
 flokatis
 evildoers
+qawwal
 hobbledehoyhood
 tsaritsas
 citrussiest
@@ -5607,6 +5651,8 @@ gayest
 stepmotherliest
 dogvanes
 endonucleolytic
+stapedii
+aartis
 pupunhas
 tapsalteeries
 agribusinessmen
@@ -5621,6 +5667,7 @@ molybdic
 sysadmins
 nene
 cockamamier
+cockalorum
 pokeweeds
 hydronephrosis
 ampacities
@@ -5647,11 +5694,13 @@ quillajas
 sakiyehs
 collotypy
 marranos
+incandescences
 alloantibodies
 squadoosh
 cockieleekie
 gobbledygooks
 cassiopeiums
+ratoons
 chlorenchymata
 berghaans
 denturisms
@@ -5695,6 +5744,7 @@ amakhosi
 advocaat
 thrombophlebitides
 oompahpahs
+smickers
 matachini
 sukhs
 whanaus
@@ -6238,6 +6288,7 @@ amblyopias
 phrenologically
 azimuthally
 dooses
+ngwee
 lancegay
 cosmopolitic
 oxyhaemoglobins
@@ -7692,6 +7743,7 @@ seaquariums
 tzatzikis
 flabellums
 tsotsitaals
+janitrix
 whydunnit
 jampanis
 trithionic
@@ -7880,7 +7932,9 @@ lymphadenopathies
 gingivitis
 vulpinites
 computernik
+aviatrixes
 columnals
+hypolimnion 
 isocarboxazids
 balayaging
 crewmates
@@ -7904,3 +7958,4 @@ rhoeadines
 ploggings
 nanoteslas
 damehoods
+liegedoms
